@@ -1,13 +1,6 @@
-import {
-  Box,
-  Breadcrumb,
-  BreadcrumbItem,
-  BreadcrumbLink,
-  Button,
-  Text,
-  Link,
-} from '@chakra-ui/react';
+import { Box, Breadcrumb, BreadcrumbItem, BreadcrumbLink, Button, Text } from '@chakra-ui/react';
 import TopMainHeader from '../components/TopMainHeader';
+import { Link } from 'react-router';
 
 const Home = () => {
   return (
@@ -23,7 +16,7 @@ const Home = () => {
             </BreadcrumbItem>
           </Breadcrumb>
         </Box>
-        <Link href="/book-meeting">
+        <Link to="/book-meeting">
           <Button
             fontSize="14px"
             colorScheme="teal"
