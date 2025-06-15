@@ -134,7 +134,6 @@ const BookMeeting = () => {
       return;
     }
     const startHour = parseTimeToHour(timeStart);
-    const endHour = parseTimeToHour(timeEnd);
 
     /*
     * Requirement:
