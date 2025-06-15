@@ -1,0 +1,114 @@
+[
+  {
+    "createdAt": "2024-07-04T10:33:45.073Z",
+    "officeId": "1",
+    "officeName": "UID JAYA",
+    "roomName": "Ruang Borobudur",
+    "capacity": 75,
+    "id": "1"
+  },
+  {
+    "createdAt": "2024-07-04T13:28:58.033Z",
+    "officeId": "1",
+    "officeName": "UID JAYA",
+    "roomName": "Ruang Prambanan",
+    "capacity": 50,
+    "id": "2"
+  },
+  {
+    "createdAt": "2024-07-04T14:58:27.735Z",
+    "officeId": "1",
+    "officeName": "UID JAYA",
+    "roomName": "Ruang Mendhut",
+    "capacity": 30,
+    "id": "3"
+  },
+  {
+    "createdAt": "2024-07-03T19:47:46.421Z",
+    "officeId": "2",
+    "officeName": "UID JABAR",
+    "roomName": "Ruang Galunggung",
+    "capacity": 30,
+    "id": "4"
+  },
+  {
+    "createdAt": "2024-07-03T18:25:11.947Z",
+    "officeId": "2",
+    "officeName": "UID JABAR",
+    "roomName": "Ruang Rinjani",
+    "capacity": 15,
+    "id": "5"
+  },
+  {
+    "createdAt": "2024-07-03T16:37:44.473Z",
+    "officeId": "2",
+    "officeName": "UID JABAR",
+    "roomName": "Ruang Semeru",
+    "capacity": 25,
+    "id": "6"
+  },
+  {
+    "createdAt": "2024-07-03T23:25:43.766Z",
+    "officeId": "2",
+    "officeName": "UID JABAR",
+    "roomName": "Ruang Bromo",
+    "capacity": 20,
+    "id": "7"
+  },
+  {
+    "createdAt": "2024-07-04T05:19:15.655Z",
+    "officeId": "3",
+    "officeName": "UID JATENG & DIY",
+    "roomName": "Ruang Arjuna",
+    "capacity": 40,
+    "id": "8"
+  },
+  {
+    "createdAt": "2024-07-03T23:29:38.597Z",
+    "officeId": "3",
+    "officeName": "UID JATENG & DIY",
+    "roomName": "Ruang Werkudara",
+    "capacity": 40,
+    "id": "9"
+  },
+  {
+    "createdAt": "2024-07-04T04:18:25.162Z",
+    "officeId": "4",
+    "officeName": "UID JATIM",
+    "roomName": "Ruang Hamka",
+    "capacity": 20,
+    "id": "10"
+  },
+  {
+    "createdAt": "2024-07-04T02:28:15.810Z",
+    "officeId": "4",
+    "officeName": "UID JATIM",
+    "roomName": "Ruang Sudirman",
+    "capacity": 30,
+    "id": "11"
+  },
+  {
+    "createdAt": "2024-07-04T01:51:13.642Z",
+    "officeId": "4",
+    "officeName": "UID JATIM",
+    "roomName": "Ruang Fatmawati",
+    "capacity": 35,
+    "id": "12"
+  },
+  {
+    "createdAt": "2024-07-04T01:51:13.642Z",
+    "officeId": "5",
+    "officeName": "UID Bali",
+    "roomName": "Ruang Ganesha",
+    "capacity": 50,
+    "id": "13"
+  },
+  {
+    "createdAt": "2024-07-04T01:51:13.642Z",
+    "officeId": "5",
+    "officeName": "UID Bali",
+    "roomName": "Ruang Saraswati",
+    "capacity": 30,
+    "id": "14"
+  }
+]
