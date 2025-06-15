@@ -1,0 +1,796 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`BookMeeting Component > should create a snapshot after data loaded 1`] = `
+<DocumentFragment>
+  <div
+    class="css-s9jvxl"
+  >
+    <div
+      class="css-0"
+    >
+      <p
+        class="chakra-text css-kxotqw"
+      >
+        Ruang Meeting
+      </p>
+      <nav
+        aria-label="breadcrumb"
+        class="chakra-breadcrumb css-jhncyh"
+      >
+        <ol
+          class="chakra-breadcrumb__list css-70qvj9"
+        >
+          <li
+            class="chakra-breadcrumb__list-item css-18biwo"
+          >
+            <a
+              class="chakra-breadcrumb__link css-1u2cnya"
+            >
+              Ruang Meeting
+            </a>
+            <span
+              class="css-t4q1nq"
+              role="presentation"
+            >
+              /
+            </span>
+          </li>
+          <li
+            class="chakra-breadcrumb__list-item css-18biwo"
+          >
+            <a
+              class="chakra-breadcrumb__link css-1u2cnya"
+            >
+              Pesan Ruangan
+            </a>
+          </li>
+        </ol>
+      </nav>
+    </div>
+  </div>
+  <div
+    class="css-1cuepr6"
+  >
+    <p
+      class="chakra-text css-1d281jg"
+    >
+      Informasi Ruang Meeting
+    </p>
+    <form
+      class="css-0"
+    >
+      <div
+        class="css-1f3mncv"
+      >
+        <div
+          class="chakra-form-control css-1kxonj9"
+          role="group"
+        >
+          <label
+            class="chakra-form__label css-g6pte"
+            for="field-«r0»"
+            id="field-«r0»-label"
+          >
+            Unit
+            <span
+              aria-hidden="true"
+              class="chakra-form__required-indicator css-1tfjd1n"
+              role="presentation"
+            >
+              *
+            </span>
+          </label>
+          <div
+            class="chakra-select__wrapper css-42b2qy"
+          >
+            <select
+              aria-required="true"
+              class="chakra-select css-161pkch"
+              data-testid="unit-select"
+              id="field-«r0»"
+              required=""
+            >
+              <option
+                disabled=""
+                value=""
+              >
+                Pilih Unit
+              </option>
+            </select>
+            <div
+              class="chakra-select__icon-wrapper css-iohxn1"
+            >
+              <svg
+                aria-hidden="true"
+                class="chakra-select__icon"
+                focusable="false"
+                role="presentation"
+                style="width: 1em; height: 1em; color: currentcolor;"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+                  fill="currentColor"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="chakra-form-control css-1kxonj9"
+          role="group"
+        >
+          <label
+            class="chakra-form__label css-g6pte"
+            for="field-«r1»"
+            id="field-«r1»-label"
+          >
+            Ruang Meeting
+            <span
+              aria-hidden="true"
+              class="chakra-form__required-indicator css-1tfjd1n"
+              role="presentation"
+            >
+              *
+            </span>
+          </label>
+          <div
+            class="chakra-select__wrapper css-42b2qy"
+          >
+            <select
+              aria-required="true"
+              class="chakra-select css-161pkch"
+              id="field-«r1»"
+              required=""
+            >
+              <option
+                disabled=""
+                value=""
+              >
+                Pilih Ruang Meeting
+              </option>
+            </select>
+            <div
+              class="chakra-select__icon-wrapper css-iohxn1"
+            >
+              <svg
+                aria-hidden="true"
+                class="chakra-select__icon"
+                focusable="false"
+                role="presentation"
+                style="width: 1em; height: 1em; color: currentcolor;"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+                  fill="currentColor"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="css-1f3mncv"
+      >
+        <div
+          class="chakra-form-control css-1kxonj9"
+          role="group"
+        >
+          <label
+            class="chakra-form__label css-g6pte"
+            for="field-«r2»"
+            id="field-«r2»-label"
+          >
+            Kapasitas
+          </label>
+          <input
+            aria-readonly="true"
+            class="chakra-input css-1pope8p"
+            id="field-«r2»"
+            readonly=""
+            value="0"
+          />
+        </div>
+      </div>
+      <hr
+        aria-orientation="horizontal"
+        class="chakra-divider css-rnrgf4"
+      />
+      <p
+        class="chakra-text css-1d281jg"
+      >
+        Informasi Rapat
+      </p>
+      <div
+        class="css-1m7uxgx"
+      >
+        <div
+          class="chakra-form-control css-1kxonj9"
+          role="group"
+        >
+          <label
+            class="chakra-form__label css-g6pte"
+            for="field-«r3»"
+            id="field-«r3»-label"
+          >
+            Tanggal Rapat
+            <span
+              aria-hidden="true"
+              class="chakra-form__required-indicator css-1tfjd1n"
+              role="presentation"
+            >
+              *
+            </span>
+          </label>
+          <div
+            class="chakra-input__group css-1y0e7gb"
+            data-group="true"
+          >
+            <div
+              class="chakra-input__left-addon css-127xmqf"
+            >
+              <svg
+                class="chakra-icon css-13otjrl"
+                fill="none"
+                focusable="false"
+                height="1em"
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <rect
+                  height="18"
+                  rx="2"
+                  ry="2"
+                  width="18"
+                  x="3"
+                  y="4"
+                />
+                <line
+                  x1="16"
+                  x2="16"
+                  y1="2"
+                  y2="6"
+                />
+                <line
+                  x1="8"
+                  x2="8"
+                  y1="2"
+                  y2="6"
+                />
+                <line
+                  x1="3"
+                  x2="21"
+                  y1="10"
+                  y2="10"
+                />
+              </svg>
+            </div>
+            <input
+              aria-required="true"
+              class="chakra-input css-10wjqo2"
+              id="field-«r3»"
+              min="2025-06-14"
+              placeholder="28 Juni 2022"
+              required=""
+              type="date"
+              value=""
+            />
+          </div>
+        </div>
+        <div
+          class="chakra-form-control css-1kxonj9"
+          role="group"
+        >
+          <label
+            class="chakra-form__label css-g6pte"
+            for="field-«r4»"
+            id="field-«r4»-label"
+          >
+            Waktu Mulai
+            <span
+              aria-hidden="true"
+              class="chakra-form__required-indicator css-1tfjd1n"
+              role="presentation"
+            >
+              *
+            </span>
+          </label>
+          <div
+            class="chakra-select__wrapper css-42b2qy"
+          >
+            <select
+              aria-required="true"
+              class="chakra-select css-161pkch"
+              id="field-«r4»"
+              required=""
+            >
+              <option
+                disabled=""
+                value=""
+              >
+                Pilih Waktu Mulai
+              </option>
+              <option
+                value="01:00"
+              >
+                01:00
+              </option>
+              <option
+                value="02:00"
+              >
+                02:00
+              </option>
+              <option
+                value="03:00"
+              >
+                03:00
+              </option>
+              <option
+                value="04:00"
+              >
+                04:00
+              </option>
+              <option
+                value="05:00"
+              >
+                05:00
+              </option>
+              <option
+                value="06:00"
+              >
+                06:00
+              </option>
+              <option
+                value="07:00"
+              >
+                07:00
+              </option>
+              <option
+                value="08:00"
+              >
+                08:00
+              </option>
+              <option
+                value="09:00"
+              >
+                09:00
+              </option>
+              <option
+                value="10:00"
+              >
+                10:00
+              </option>
+              <option
+                value="11:00"
+              >
+                11:00
+              </option>
+              <option
+                value="12:00"
+              >
+                12:00
+              </option>
+              <option
+                value="13:00"
+              >
+                13:00
+              </option>
+              <option
+                value="14:00"
+              >
+                14:00
+              </option>
+              <option
+                value="15:00"
+              >
+                15:00
+              </option>
+              <option
+                value="16:00"
+              >
+                16:00
+              </option>
+              <option
+                value="17:00"
+              >
+                17:00
+              </option>
+              <option
+                value="18:00"
+              >
+                18:00
+              </option>
+              <option
+                value="19:00"
+              >
+                19:00
+              </option>
+              <option
+                value="20:00"
+              >
+                20:00
+              </option>
+              <option
+                value="21:00"
+              >
+                21:00
+              </option>
+              <option
+                value="22:00"
+              >
+                22:00
+              </option>
+              <option
+                value="23:00"
+              >
+                23:00
+              </option>
+              <option
+                value="00:00"
+              >
+                00:00
+              </option>
+            </select>
+            <div
+              class="chakra-select__icon-wrapper css-iohxn1"
+            >
+              <svg
+                aria-hidden="true"
+                class="chakra-select__icon"
+                focusable="false"
+                role="presentation"
+                style="width: 1em; height: 1em; color: currentcolor;"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+                  fill="currentColor"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="chakra-form-control css-1kxonj9"
+          role="group"
+        >
+          <label
+            class="chakra-form__label css-g6pte"
+            for="field-«r5»"
+            id="field-«r5»-label"
+          >
+            Waktu Selesai
+            <span
+              aria-hidden="true"
+              class="chakra-form__required-indicator css-1tfjd1n"
+              role="presentation"
+            >
+              *
+            </span>
+          </label>
+          <div
+            class="chakra-select__wrapper css-42b2qy"
+          >
+            <select
+              aria-required="true"
+              class="chakra-select css-161pkch"
+              id="field-«r5»"
+              required=""
+            >
+              <option
+                disabled=""
+                value=""
+              >
+                Pilih Waktu Selesai
+              </option>
+              <option
+                value="01:00"
+              >
+                01:00
+              </option>
+              <option
+                value="02:00"
+              >
+                02:00
+              </option>
+              <option
+                value="03:00"
+              >
+                03:00
+              </option>
+              <option
+                value="04:00"
+              >
+                04:00
+              </option>
+              <option
+                value="05:00"
+              >
+                05:00
+              </option>
+              <option
+                value="06:00"
+              >
+                06:00
+              </option>
+              <option
+                value="07:00"
+              >
+                07:00
+              </option>
+              <option
+                value="08:00"
+              >
+                08:00
+              </option>
+              <option
+                value="09:00"
+              >
+                09:00
+              </option>
+              <option
+                value="10:00"
+              >
+                10:00
+              </option>
+              <option
+                value="11:00"
+              >
+                11:00
+              </option>
+              <option
+                value="12:00"
+              >
+                12:00
+              </option>
+              <option
+                value="13:00"
+              >
+                13:00
+              </option>
+              <option
+                value="14:00"
+              >
+                14:00
+              </option>
+              <option
+                value="15:00"
+              >
+                15:00
+              </option>
+              <option
+                value="16:00"
+              >
+                16:00
+              </option>
+              <option
+                value="17:00"
+              >
+                17:00
+              </option>
+              <option
+                value="18:00"
+              >
+                18:00
+              </option>
+              <option
+                value="19:00"
+              >
+                19:00
+              </option>
+              <option
+                value="20:00"
+              >
+                20:00
+              </option>
+              <option
+                value="21:00"
+              >
+                21:00
+              </option>
+              <option
+                value="22:00"
+              >
+                22:00
+              </option>
+              <option
+                value="23:00"
+              >
+                23:00
+              </option>
+              <option
+                value="00:00"
+              >
+                00:00
+              </option>
+            </select>
+            <div
+              class="chakra-select__icon-wrapper css-iohxn1"
+            >
+              <svg
+                aria-hidden="true"
+                class="chakra-select__icon"
+                focusable="false"
+                role="presentation"
+                style="width: 1em; height: 1em; color: currentcolor;"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"
+                  fill="currentColor"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="css-1f3mncv"
+      >
+        <div
+          class="chakra-form-control css-1kxonj9"
+          role="group"
+        >
+          <label
+            class="chakra-form__label css-g6pte"
+            for="field-«r6»"
+            id="field-«r6»-label"
+          >
+            Jumlah Peserta
+          </label>
+          <input
+            class="chakra-input css-1cjy4zv"
+            id="field-«r6»"
+            inputmode="numeric"
+            pattern="[0-9]*"
+            placeholder="Masukkan Jumlah Peserta"
+            value=""
+          />
+        </div>
+      </div>
+      <div
+        class="chakra-form-control css-1n1vgb"
+        role="group"
+      >
+        <label
+          class="chakra-form__label css-g6pte"
+          for="field-«r7»"
+          id="field-«r7»-label"
+        >
+          Jenis Konsumsi
+        </label>
+        <div
+          class="chakra-stack css-8g8ihq"
+        >
+          <label
+            class="chakra-checkbox css-1577qb8"
+          >
+            <input
+              aria-checked="false"
+              aria-disabled="false"
+              aria-invalid="false"
+              class="chakra-checkbox__input"
+              id="field-«r7»"
+              style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+              type="checkbox"
+            />
+            <span
+              aria-hidden="true"
+              class="chakra-checkbox__control css-1dnp747"
+            />
+            <span
+              class="chakra-checkbox__label css-6x44c9"
+            >
+              Snack Siang
+            </span>
+          </label>
+          <label
+            class="chakra-checkbox css-1577qb8"
+          >
+            <input
+              aria-checked="false"
+              aria-disabled="false"
+              aria-invalid="false"
+              class="chakra-checkbox__input"
+              id="field-«r7»"
+              style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+              type="checkbox"
+            />
+            <span
+              aria-hidden="true"
+              class="chakra-checkbox__control css-1dnp747"
+            />
+            <span
+              class="chakra-checkbox__label css-6x44c9"
+            >
+              Makan Siang
+            </span>
+          </label>
+          <label
+            class="chakra-checkbox css-1577qb8"
+          >
+            <input
+              aria-checked="false"
+              aria-disabled="false"
+              aria-invalid="false"
+              class="chakra-checkbox__input"
+              id="field-«r7»"
+              style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; width: 1px; padding: 0px; overflow: hidden; white-space: nowrap; position: absolute;"
+              type="checkbox"
+            />
+            <span
+              aria-hidden="true"
+              class="chakra-checkbox__control css-1dnp747"
+            />
+            <span
+              class="chakra-checkbox__label css-6x44c9"
+            >
+              Snack Sore
+            </span>
+          </label>
+        </div>
+      </div>
+      <div
+        class="chakra-form-control css-1n1vgb"
+        role="group"
+      >
+        <label
+          class="chakra-form__label css-g6pte"
+          for="field-«r8»"
+          id="field-«r8»-label"
+        >
+          Nominal Konsumsi
+        </label>
+        <div
+          class="chakra-input__group css-1y0e7gb"
+          data-group="true"
+        >
+          <div
+            class="chakra-input__left-addon css-127xmqf"
+          >
+            Rp.
+          </div>
+          <input
+            aria-readonly="true"
+            class="chakra-input css-10wjqo2"
+            id="field-«r8»"
+            readonly=""
+            value="0"
+          />
+        </div>
+      </div>
+      <hr
+        aria-orientation="horizontal"
+        class="chakra-divider css-rnrgf4"
+      />
+      <div
+        class="css-9idvp9"
+      >
+        <button
+          class="chakra-button css-1qtz3om"
+          type="reset"
+        >
+          Batal
+        </button>
+        <button
+          class="chakra-button css-ez23ye"
+          disabled=""
+          type="submit"
+        >
+          Simpan
+        </button>
+      </div>
+    </form>
+  </div>
+  <span
+    hidden=""
+    id="__chakra_env"
+  />
+</DocumentFragment>
+`;

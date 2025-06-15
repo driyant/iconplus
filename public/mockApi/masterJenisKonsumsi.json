@@ -1,0 +1,68 @@
+[
+  {
+    "createdAt": "2024-07-04T04:03:28.947Z",
+    "name": "Snack Siang",
+    "maxPrice": 20000,
+    "id": "1"
+  },
+  {
+    "createdAt": "2024-07-04T10:04:22.946Z",
+    "name": "Makan Siang",
+    "maxPrice": 30000,
+    "id": "2"
+  },
+  {
+    "createdAt": "2024-07-03T21:57:46.929Z",
+    "name": "Snack Sore",
+    "maxPrice": 20000,
+    "id": "3"
+  },
+  {
+    "createdAt": "2025-01-19T07:54:32.715Z",
+    "name": "name 4",
+    "maxPrice": 0,
+    "id": "4"
+  },
+  {
+    "createdAt": "2025-01-19T22:43:10.813Z",
+    "name": "name 5",
+    "maxPrice": 97,
+    "id": "5"
+  },
+  {
+    "createdAt": "2025-01-19T02:57:09.533Z",
+    "name": "name 6",
+    "maxPrice": 83,
+    "id": "6"
+  },
+  {
+    "createdAt": "2025-01-19T21:16:52.043Z",
+    "name": "name 7",
+    "maxPrice": 31,
+    "id": "7"
+  },
+  {
+    "createdAt": "2025-01-19T17:40:41.038Z",
+    "name": "name 8",
+    "maxPrice": 76,
+    "id": "8"
+  },
+  {
+    "createdAt": "2025-01-19T20:40:00.208Z",
+    "name": "name 9",
+    "maxPrice": 9,
+    "id": "9"
+  },
+  {
+    "createdAt": "2025-01-19T11:39:41.910Z",
+    "name": "name 10",
+    "maxPrice": 69,
+    "id": "10"
+  },
+  {
+    "createdAt": "2025-01-19T18:39:12.004Z",
+    "name": "name 11",
+    "maxPrice": 51,
+    "id": "11"
+  }
+]
