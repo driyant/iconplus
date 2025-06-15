@@ -291,6 +291,15 @@ describe('BookMeeting Component', () => {
       expect(screen.getByLabelText(/Snack Sore/i)).not.toBeChecked();
     });
 
+    // Lunch + Snack Sore meeting: (start: 14:00, end 17:00) ---
+    fireEvent.change(screen.getByLabelText(/Waktu Mulai/i), { target: { value: '14:00' } });
+    fireEvent.change(screen.getByLabelText(/Waktu Selesai/i), { target: { value: '17:00' } });
+    await waitFor(() => {
+      expect(screen.getByLabelText(/Snack Siang/i)).not.toBeChecked();
+      expect(screen.getByLabelText(/Makan Siang/i)).toBeChecked();
+      expect(screen.getByLabelText(/Snack Sore/i)).toBeChecked();
+    });
+
     // Only Snack Sore (start 15:00, end 17:00) ---
     fireEvent.change(screen.getByLabelText(/Waktu Mulai/i), { target: { value: '15:00' } });
     fireEvent.change(screen.getByLabelText(/Waktu Selesai/i), { target: { value: '17:00' } });

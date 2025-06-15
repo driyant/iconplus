@@ -134,6 +134,7 @@ const BookMeeting = () => {
       return;
     }
     const startHour = parseTimeToHour(timeStart);
+    const endHour = parseTimeToHour(timeEnd);
 
     /*
     * Requirement:
@@ -146,9 +147,11 @@ const BookMeeting = () => {
     const meals: string[] = [];
     if (startHour < 11) {
       meals.push('Snack Siang');
-    } else if (startHour <= 14) {
+    }
+    if (startHour <= 14 && endHour > 11) {
       meals.push('Makan Siang');
-    } else {
+    }
+    if (endHour > 14) {
       meals.push('Snack Sore');
     }
 
